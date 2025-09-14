@@ -1,0 +1,4 @@
+com.ridho.resepku.test.app-androidTest-0 C:\Users\ThinkPad T14\ResepMakanan\app\build\generated\res\resValues\androidTest\debug
+com.ridho.resepku.test.app-mergeDebugAndroidTestResources-1 C:\Users\ThinkPad T14\ResepMakanan\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ridho.resepku.test.app-mergeDebugAndroidTestResources-2 C:\Users\ThinkPad T14\ResepMakanan\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ridho.resepku.test.app-merged_res-3 C:\Users\ThinkPad T14\ResepMakanan\app\build\intermediates\merged_res\debugAndroidTest
