@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_klepon.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\klepon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_ridho.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\ridho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\layout_item_recipe.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_sate_babi.jpeg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\sate_babi.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_gudeg.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\gudeg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_adrian.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\adrian.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\layout_item_team.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\layout\\item_team.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_bakso.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\bakso.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/layout_item_recipe.xml.flat",
+        "source": "com.ridho.resepku.app-main-34:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_ic_app_logo.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\ic_app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_alfian.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\alfian.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_alfian.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\alfian.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_rendang.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\rendang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_nasi_goreng.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\nasi_goreng.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_ridho.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\ridho.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_telur_balado.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\telur_balado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_farel.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\farel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\layout_activity_team.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\layout\\activity_team.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_mie_ayam.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\mie_ayam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_img_splash_food.xml.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\img_splash_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-merged_res-32:\\drawable_farel.jpg.flat",
+        "source": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-main-34:\\drawable\\farel.jpg"
+    }
+]

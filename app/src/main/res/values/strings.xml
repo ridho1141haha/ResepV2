@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string name="btn_mulai">Mulai</string>
+    <string name="btn_lanjut">Lanjut</string>
+    <string name="btn_kembali">Kembali</string>
+    <string name="title_identitas">IDENTITAS TIM X PPLG A</string>
+    <string name="title_menu">RESEP MAKANAN</string>
+</resources>

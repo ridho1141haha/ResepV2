@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ridho.resepku.app-mergeReleaseResources-30:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ThinkPad T14\\.gradle\\caches\\9.0-milestone-1\\transforms\\1e07d002155b3014681a56100f8626c7\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

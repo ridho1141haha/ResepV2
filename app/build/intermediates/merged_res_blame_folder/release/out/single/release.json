@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/layout_activity_splash.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_ic_app_logo.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_bakso.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/bakso.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_gudeg.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/gudeg.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_rendang.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/rendang.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_nasi_goreng.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/nasi_goreng.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_sate_babi.jpeg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/sate_babi.jpeg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_img_splash_food.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/img_splash_food.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_telur_balado.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/telur_balado.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/layout_item_recipe.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_alfian.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/alfian.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/layout_activity_detail.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_adrian.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/adrian.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_ridho.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/ridho.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_mie_ayam.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/mie_ayam.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_farel.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/farel.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/layout_activity_menu.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/drawable_klepon.jpg.flat",
+        "source": "com.ridho.resepku.app-main-33:/drawable/klepon.jpg"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/layout_activity_team.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/layout/activity_team.xml"
+    },
+    {
+        "merged": "com.ridho.resepku.app-merged_res-32:/layout_item_team.xml.flat",
+        "source": "com.ridho.resepku.app-main-33:/layout/item_team.xml"
+    }
+]
