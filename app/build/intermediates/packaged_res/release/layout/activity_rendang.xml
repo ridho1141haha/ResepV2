@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RendangActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/rendang"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rendang"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bahan:"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• daging sapi 1 kg\n• santan kental 1 liter\n• serai 2 batang (geprek)\n• daun jeruk 4 lembar\n• daun kunyit 1 lembar\n• asam kandis 2 buah\n• Bumbu halus: cabai merah 10, bawang merah 10, bawang putih 5, jahe 3 cm, lengkuas 3 cm, kunyit 2 cm, kemiri 4, garam" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cara Membuat:"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Tumis bumbu halus hingga matang dan harum.\n2. Masukkan santan, serai, daun jeruk, dan daun kunyit. Aduk hingga mendidih.\n3. Masukkan potongan daging sapi dan asam kandis.\n4. Masak dengan api kecil sambil terus diaduk perlahan selama 2-3 jam.\n5. Masak hingga santan mengering, mengeluarkan minyak, dan bumbu rendang menjadi gelap kecokelatan." />
+
+        <Button
+            android:id="@+id/btn_back_to_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:text="Kembali ke Menu" />
+
+    </LinearLayout>
+</ScrollView>

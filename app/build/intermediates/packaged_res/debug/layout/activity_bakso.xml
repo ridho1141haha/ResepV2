@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BaksoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/bakso"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bakso"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bahan:"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• daging sapi giling 500 g\n• tepung tapioka 100 g\n• putih telur 1\n• es batu serut 100 g\n• bawang putih 3 siung (haluskan)\n• merica, garam, kaldu bubuk secukupnya\n• Kuah: tulang sapi, bawang putih goreng, daun bawang, garam, merica" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cara Membuat:"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Aduk rata daging giling, bumbu halus, dan es batu hingga tercampur.\n2. Tambahkan tepung tapioka, aduk hingga adonan kalis.\n3. Bentuk adonan menjadi bulatan-bulatan bakso.\n4. Rebus bakso dalam air mendidih hingga mengapung dan matang.\n5. Siapkan kuah dengan merebus tulang sapi dan bumbu.\n6. Sajikan bakso dengan kuah, mie/sohun, dan sawi." />
+
+        <Button
+            android:id="@+id/btn_back_to_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:text="Kembali ke Menu" />
+
+    </LinearLayout>
+</ScrollView>

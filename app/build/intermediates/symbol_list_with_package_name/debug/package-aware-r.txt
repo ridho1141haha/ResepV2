@@ -3195,7 +3195,6 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
-id appbar_layout
 id arc
 id asConfigured
 id async
@@ -3214,10 +3213,10 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btn_kembali_detail
-id btn_kembali_menu
-id btn_lanjut
+id btn_back_to_menu
+id btn_back_to_team
 id btn_mulai
+id btn_to_menu
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3241,7 +3240,6 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
-id collapsing_toolbar
 id compress
 id confirm_button
 id constraint
@@ -3270,9 +3268,6 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
-id detail_image
-id detail_ingredients
-id detail_steps
 id dialog_button
 id dimensions
 id direct
@@ -3345,6 +3340,14 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id img_bakso
+id img_gudeg
+id img_klepon
+id img_mie_ayam
+id img_nasi_goreng
+id img_rendang
+id img_sate_babi
+id img_telur_balado
 id immediateStop
 id included
 id indeterminate
@@ -3487,8 +3490,6 @@ id ratio
 id recipe_image
 id recipe_title
 id rectangles
-id recycler_view_menu
-id recycler_view_team
 id report_drawn
 id reverseSawtooth
 id right
@@ -3583,6 +3584,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textViewTitle
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3597,7 +3599,6 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
-id toolbar
 id top
 id topPanel
 id touch_outside
@@ -3749,10 +3750,17 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_detail
+layout activity_bakso
+layout activity_gudeg
+layout activity_klepon
 layout activity_menu
+layout activity_mie_ayam
+layout activity_nasi_goreng
+layout activity_rendang
+layout activity_sate_babi
 layout activity_splash
 layout activity_team
+layout activity_telur_balado
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -4127,6 +4135,7 @@ style Base_Theme_MaterialComponents_Light_Dialog_Bridge
 style Base_Theme_MaterialComponents_Light_Dialog_FixedSize
 style Base_Theme_MaterialComponents_Light_Dialog_MinWidth
 style Base_Theme_MaterialComponents_Light_DialogWhenLarge
+style Base_Theme_ResepMakanan
 style Base_ThemeOverlay_AppCompat
 style Base_ThemeOverlay_AppCompat_ActionBar
 style Base_ThemeOverlay_AppCompat_Dark
@@ -5288,5 +5297,3 @@ styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
 styleable include constraintSet
-xml backup_rules
-xml data_extraction_rules

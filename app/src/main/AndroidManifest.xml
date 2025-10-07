@@ -4,8 +4,6 @@
 
     <application
         android:allowBackup="true"
-        android:dataExtractionRules="@xml/data_extraction_rules"
-        android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/ic_app_logo"
         android:label="@string/app_name"
         android:roundIcon="@drawable/ic_app_logo"
@@ -29,7 +27,28 @@
             android:name=".MenuActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".DetailActivity"
+            android:name=".GudegActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BaksoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TelurBaladoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".KleponActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SateBabiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MieAyamActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RendangActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".NasiGorengActivity"
             android:screenOrientation="portrait" />
     </application>
 

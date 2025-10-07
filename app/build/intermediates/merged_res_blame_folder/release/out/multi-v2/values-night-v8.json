@@ -6,6 +6,77 @@
                 {
                     "source": "C:\\Users\\ThinkPad T14\\.gradle\\caches\\9.0-milestone-1\\transforms\\1714d330447a3cb3512c6a4d5b5c5b41\\transformed\\material-1.12.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,55,56,57,58,59,60,61,62",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1032,1107,1218,1307,1408,1515,1622,1721,1828,1931,2058,2146,2270,2372,2474,2590,2692,2806,2934,3050,3172,3308,3428,3562,3682,3794,4530,4647,4771,4901,5023,5161,5295,5411",
+                        "endColumns": "74,110,88,100,106,106,98,106,102,126,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1102,1213,1302,1403,1510,1617,1716,1823,1926,2053,2141,2265,2367,2469,2585,2687,2801,2929,3045,3167,3303,3423,3557,3677,3789,3915,4642,4766,4896,5018,5156,5290,5406,5526"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ThinkPad T14\\ResepMakanan\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "737"
+                    },
+                    "to": {
+                        "startLines": "42",
+                        "startColumns": "4",
+                        "startOffsets": "3920",
+                        "endLines": "53",
+                        "endColumns": "12",
+                        "endOffsets": "4436"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ThinkPad T14\\.gradle\\caches\\9.0-milestone-1\\transforms\\1e07d002155b3014681a56100f8626c7\\transformed\\appcompat-1.7.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,54",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "400,470,554,638,734,836,938,4441",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "465,549,633,729,831,933,1027,4525"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ThinkPad T14\\ResepMakanan\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "8,4,7,2,3,5,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "350,156,301,55,102,205,254",
+                        "endColumns": "49,48,48,46,53,48,46",
+                        "endOffsets": "395,200,345,97,151,249,296"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,154,203,250,304,353",
+                        "endColumns": "49,48,48,46,53,48,46",
+                        "endOffsets": "100,149,198,245,299,348,395"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ThinkPad T14\\.gradle\\daemon\\9.0-milestone-1\\com.ridho.resepku.app-mergeReleaseResources-30:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ThinkPad T14\\.gradle\\caches\\9.0-milestone-1\\transforms\\1714d330447a3cb3512c6a4d5b5c5b41\\transformed\\material-1.12.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
                         "startOffsets": "55,130,241,330,431,538,645,744,851,954,1081,1169,1293,1395,1497,1613,1715,1829,1957,2073,2195,2331,2451,2585,2705,2817,2943,3060,3184,3314,3436,3574,3708,3824",
