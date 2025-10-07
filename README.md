@@ -40,8 +40,6 @@ ResepV2/
 ├── settings.gradle
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -60,7 +58,7 @@ Copy code
 ## 🚀 Cara Menjalankan
 
 1. Clone repo:  
-   ```bash
+   ```
    git clone https://github.com/ridho1141haha/ResepV2.git
 Buka di Android Studio
 
