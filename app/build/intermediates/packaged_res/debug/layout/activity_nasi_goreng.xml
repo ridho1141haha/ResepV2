@@ -21,6 +21,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Nasi Goreng"
+            android:background="#036635"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
             android:textSize="24sp"
             android:textStyle="bold"
             android:gravity="center"
@@ -37,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="• nasi putih 2 porsi\n• telur 2 butir\n• bawang putih 3 siung (cincang)\n• bawang merah 3 siung (iris)\n• cabai rawit sesuai selera (opsional)\n• kecap manis 2 sdm\n• kecap asin 1 sdt\n• garam, kaldu bubuk, minyak goreng" />
+            android:text="Bahan-bahan:\n• 2 porsi nasi putih (lebih enak kalau nasi dingin semalam)\n• 2 butir telur\n• 3 siung bawang putih (cincang halus)\n• 4 siung bawang merah (iris tipis)\n• 3 sdm kecap manis\n• 1 sdm saus tiram (opsional, biar lebih gurih)\n• 1 sdt garam\n• ½ sdt merica bubuk\n• 2 sdm minyak goreng\n• Cabe rawit sesuai selera (kalau suka pedas)\n• Topping opsional: irisan timun, tomat, kerupuk, ayam suwir, atau sosis" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Panaskan minyak, buat telur orak-arik, sisihkan di pinggir wajan.\n2. Tumis bawang putih, bawang merah, dan cabai hingga harum.\n3. Masukkan nasi putih, aduk rata dengan bumbu dan telur.\n4. Bumbui dengan kecap manis, kecap asin, garam, dan kaldu bubuk.\n5. Aduk terus hingga semua tercampur rata, panas, dan sedikit wangi gosong khas nasi goreng." />
+            android:text="a. Panaskan wajan, tuang minyak, lalu tumis bawang putih + bawang merah sampai harum.\nb. Masukkan telur, orak-arik sampai setengah matang.\nc. Masukkan nasi, aduk rata biar nggak ada gumpalan.\nd. Tambahkan kecap manis, saus tiram, garam, dan merica. Aduk sampai warnanya merata coklat keemasan.\ne. Kalau mau pedas, masukin cabe rawit yang sudah diiris.\nf. Tes rasa → kalau kurang gurih bisa tambah sedikit kaldu bubuk.\ng. Angkat, sajikan dengan topping sesuai selera.\n\nTips:\n• Pakai nasi sisa semalam biar nggak lembek.\n• Kalau mau ala resto, bisa tambahin irisan daun bawang + udang/ayam." />
 
         <Button
             android:id="@+id/btn_back_to_menu"

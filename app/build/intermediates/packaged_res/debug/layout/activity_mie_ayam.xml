@@ -22,6 +22,9 @@
             android:layout_height="wrap_content"
             android:text="Mie Ayam"
             android:textSize="24sp"
+            android:background="#036635"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
             android:textStyle="bold"
             android:gravity="center"
             android:layout_marginTop="16dp"/>
@@ -37,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="• mie kuning basah 400 g\n• dada/paha ayam cincang 300 g\n• kecap manis 3 sdm\n• kecap asin 1 sdm\n• saus tiram 1 sdm\n• bawang putih 4 siung (cincang)\n• jahe 1 cm (geprek)\n• merica, garam, minyak ayam\n• sawi hijau" />
+            android:text="Bahan Utama:\n• 500 gr mie basah (mie kuning khusus mie ayam)\n• 250 gr dada/paha ayam, potong kecil dadu\n• 2 batang sawi hijau / caisim\n• Minyak bawang (goreng bawang putih cincang, ambil minyaknya)\n• Kecap asin secukupnya\n• Kecap manis secukupnya\n\nBumbu Ayam (tumis):\n• 5 siung bawang putih, haluskan\n• 5 siung bawang merah, haluskan\n• 2 sdm kecap manis\n• 1 sdm kecap asin\n• 1 sdm saus tiram\n• ½ sdt merica\n• ½ sdt gula pasir\n• Garam secukupnya\n• 200 ml air kaldu ayam" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Tumis bawang putih dan jahe hingga harum.\n2. Masukkan ayam cincang, masak hingga berubah warna.\n3. Bumbui dengan kecap manis, kecap asin, saus tiram, merica, dan garam. Masak hingga bumbu meresap.\n4. Rebus mie dan sawi hijau hingga matang, tiriskan.\n5. Di mangkuk, campur sedikit minyak ayam dan kecap asin. Masukkan mie, aduk rata.\n6. Beri topping ayam dan sawi di atas mie." />
+            android:text="1. Tumis ayam → panaskan minyak, tumis bawang putih &amp; bawang merah sampai harum. Masukkan ayam, aduk sampai berubah warna.\n2. Tambahkan kecap manis, kecap asin, saus tiram, garam, gula, merica. Aduk rata. Tuang sedikit kaldu, masak sampai ayam empuk &amp; kuah menyusut agak kental.\n3. Rebus mie &amp; sayur → siapkan air mendidih, rebus mie hingga matang, tiriskan. Rebus sawi sebentar, tiriskan.\n4. Siapkan mangkok → taruh 1 sdm minyak bawang, ½ sdt kecap asin, dan sedikit merica. Aduk rata dengan mie yang sudah direbus.\n5. Topping → beri ayam bumbu di atas mie, tambah sawi rebus, taburi bawang goreng.\n6. Sajikan → tambahkan kuah kaldu panas di mangkok terpisah, makan selagi hangat.\n\nTips:\n• Mie ayam makin mantap kalau ditambah bakso atau pangsit goreng.\n• Minyak bawang jangan diskip, itu yang bikin mie ayam punya aroma khas." />
 
         <Button
             android:id="@+id/btn_back_to_menu"

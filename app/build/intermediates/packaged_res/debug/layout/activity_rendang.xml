@@ -21,6 +21,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Rendang"
+            android:background="#036635"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
             android:textSize="24sp"
             android:textStyle="bold"
             android:gravity="center"
@@ -37,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="• daging sapi 1 kg\n• santan kental 1 liter\n• serai 2 batang (geprek)\n• daun jeruk 4 lembar\n• daun kunyit 1 lembar\n• asam kandis 2 buah\n• Bumbu halus: cabai merah 10, bawang merah 10, bawang putih 5, jahe 3 cm, lengkuas 3 cm, kunyit 2 cm, kemiri 4, garam" />
+            android:text="Bahan Utama:\n• 1 kg daging sapi (pilih bagian sengkel/ samcan biar ada lemaknya)\n• 2 liter santan dari 2 butir kelapa tua (atau santan instan 800 ml + air)\n• 3 lembar daun jeruk\n• 2 lembar daun kunyit (ikat simpul)\n• 2 batang serai (geprek)\n• 2 buah asam kandis (opsional)\n• Garam secukupnya\n\nBumbu Halus:\n• 10 siung bawang merah\n• 6 siung bawang putih\n• 5 buah cabai merah besar\n• 10 buah cabai keriting (sesuai selera pedas)\n• 5 butir kemiri sangrai\n• 2 cm jahe\n• 3 cm lengkuas\n• 3 cm kunyit" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Tumis bumbu halus hingga matang dan harum.\n2. Masukkan santan, serai, daun jeruk, dan daun kunyit. Aduk hingga mendidih.\n3. Masukkan potongan daging sapi dan asam kandis.\n4. Masak dengan api kecil sambil terus diaduk perlahan selama 2-3 jam.\n5. Masak hingga santan mengering, mengeluarkan minyak, dan bumbu rendang menjadi gelap kecokelatan." />
+            android:text="1. Haluskan bumbu → blender semua bumbu halus dengan sedikit minyak/ air.\n2. Rebus santan → tuang santan ke wajan besar, masukkan bumbu halus, daun jeruk, daun kunyit, serai, dan asam kandis. Aduk terus supaya santan tidak pecah.\n3. Masukkan daging → setelah santan mendidih, masukkan potongan daging sapi. Aduk rata.\n4. Masak perlahan → gunakan api kecil, masak 3-4 jam sambil sesekali diaduk. Santan akan mengental, bumbu meresap, dan warna berubah jadi cokelat gelap.\n5. Tes rasa → tambahkan garam sesuai selera.\n6. Sajikan → rendang siap disantap dengan nasi panas atau ketupat.\n\nTips biar rendang legit:\n• Jangan buru-buru, kunci rendang adalah sabar (harus lama sampai kering minyak keluar).\n• Aduk sesekali, jangan terlalu sering biar daging tidak hancur.\n• Kalau suka lebih pedas, tambah cabai rawit merah di bumbu halus." />
 
         <Button
             android:id="@+id/btn_back_to_menu"

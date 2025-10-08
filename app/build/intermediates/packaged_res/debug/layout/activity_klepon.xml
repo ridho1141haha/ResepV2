@@ -21,6 +21,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Klepon"
+            android:background="#036635"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
             android:textSize="24sp"
             android:textStyle="bold"
             android:gravity="center"
@@ -37,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="• tepung ketan 250 g\n• pasta pandan atau air daun suji secukupnya\n• gula merah 100 g (sisir halus)\n• kelapa parut 100 g\n• garam secukupnya" />
+            android:text="Adonan kulit:\n• 250 gr tepung ketan\n• 50 gr tepung beras (biar lebih kenyal, opsional)\n• 200 ml air hangat (secukupnya, sampai bisa dipulung)\n• 1/2 sdt garam\n• 1/2 sdt pasta pandan / air daun suji (buat warna hijau alami + aroma)\n\nIsian:\n• 100 gr gula merah, sisir halus\n\nTaburan:\n• 100 gr kelapa parut muda\n• 1/2 sdt garam" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Campur tepung ketan dengan pasta/air pandan sedikit demi sedikit hingga adonan bisa dipulung.\n2. Ambil sedikit adonan, pipihkan, lalu isi dengan gula merah sisir, bulatkan kembali.\n3. Rebus klepon dalam air mendidih hingga mengapung.\n4. Kukus kelapa parut yang sudah dicampur sedikit garam selama 5 menit.\n5. Gulingkan klepon yang sudah matang ke dalam kelapa parut." />
+            android:text="a. Campur taburan → kukus kelapa parut dengan sedikit garam selama 10 menit (biar nggak cepat basi). Sisihkan.\nb. Buat adonan → campur tepung ketan + tepung beras + garam, tuang air hangat sedikit demi sedikit sambil diuleni sampai kalis (tidak lengket, bisa dipulung). Tambahkan pasta pandan biar hijau cantik.\nc. Siapkan isian → ambil sedikit adonan, pipihkan, beri isian gula merah sisir, lalu bulatkan rapat-rapat. Pastikan gula merahnya tertutup biar nggak bocor saat direbus.\nd. Rebus klepon → didihkan air dalam panci, masukkan klepon satu per satu. Masak sampai mengapung (tanda sudah matang).\ne. Balur kelapa → angkat klepon, tiriskan sebentar, lalu gulingkan ke kelapa parut kukus.\nf. Sajikan → klepon siap disantap, begitu digigit gula merah cairnya langsung “meledak” di mulut\n\nTips biar anti gagal:\n• Jangan kasih terlalu banyak gula merah di dalam, cukup 1/2 sdt per butir biar nggak pecah.\n• Kalau suka lebih wangi, tambahkan daun pandan saat merebus air." />
 
         <Button
             android:id="@+id/btn_back_to_menu"

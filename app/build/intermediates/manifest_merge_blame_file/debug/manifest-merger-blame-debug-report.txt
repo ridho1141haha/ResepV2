@@ -35,155 +35,156 @@
 24-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:9:9-50
 25        android:supportsRtl="true"
 25-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:10:9-35
-26        android:theme="@style/Theme.ResepMakanan" >
-26-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:11:9-50
-27        <activity
-27-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:13:9-22:20
-28            android:name="com.ridho.resepku.SplashActivity"
-28-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:14:13-43
-29            android:exported="true"
-29-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:15:13-36
-30            android:screenOrientation="portrait"
-30-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:17:13-49
-31            android:theme="@style/Theme.ResepMakanan.NoActionBar" >
-31-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:16:13-66
-32            <intent-filter>
-32-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:18:13-21:29
-33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:19:17-69
-33-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:19:25-66
-34
-35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:20:17-77
-35-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:20:27-74
-36            </intent-filter>
-37        </activity>
-38        <activity
-38-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:23:9-25:52
-39            android:name="com.ridho.resepku.TeamActivity"
-39-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:24:13-41
-40            android:screenOrientation="portrait" />
-40-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:25:13-49
-41        <activity
-41-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:26:9-28:52
-42            android:name="com.ridho.resepku.MenuActivity"
-42-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:27:13-41
-43            android:screenOrientation="portrait" />
-43-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:28:13-49
-44        <activity
-44-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:29:9-31:52
-45            android:name="com.ridho.resepku.GudegActivity"
-45-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:30:13-42
-46            android:screenOrientation="portrait" />
-46-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:31:13-49
-47        <activity
-47-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:32:9-34:52
-48            android:name="com.ridho.resepku.BaksoActivity"
-48-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:33:13-42
-49            android:screenOrientation="portrait" />
-49-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:34:13-49
-50        <activity
-50-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:35:9-37:52
-51            android:name="com.ridho.resepku.TelurBaladoActivity"
-51-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:36:13-48
-52            android:screenOrientation="portrait" />
-52-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:37:13-49
-53        <activity
-53-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:38:9-40:52
-54            android:name="com.ridho.resepku.KleponActivity"
-54-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:39:13-43
-55            android:screenOrientation="portrait" />
-55-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:40:13-49
-56        <activity
-56-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:41:9-43:52
-57            android:name="com.ridho.resepku.SateBabiActivity"
-57-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:42:13-45
-58            android:screenOrientation="portrait" />
-58-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:43:13-49
-59        <activity
-59-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:44:9-46:52
-60            android:name="com.ridho.resepku.MieAyamActivity"
-60-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:45:13-44
-61            android:screenOrientation="portrait" />
-61-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:46:13-49
-62        <activity
-62-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:47:9-49:52
-63            android:name="com.ridho.resepku.RendangActivity"
-63-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:48:13-44
-64            android:screenOrientation="portrait" />
-64-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:49:13-49
-65        <activity
-65-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:50:9-52:52
-66            android:name="com.ridho.resepku.NasiGorengActivity"
-66-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:51:13-47
-67            android:screenOrientation="portrait" />
-67-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:52:13-49
-68
-69        <provider
-69-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-70            android:name="androidx.startup.InitializationProvider"
-70-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
-71            android:authorities="com.ridho.resepku.androidx-startup"
-71-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
-72            android:exported="false" >
-72-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
-73            <meta-data
-73-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-74-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
-75                android:value="androidx.startup" />
-75-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
-76            <meta-data
-76-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\ec9f131ae2c1fc391170cab8b0045dd5\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-77-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\ec9f131ae2c1fc391170cab8b0045dd5\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
-78                android:value="androidx.startup" />
-78-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\ec9f131ae2c1fc391170cab8b0045dd5\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
-79            <meta-data
-79-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
-80                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
-81                android:value="androidx.startup" />
-81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
-82        </provider>
-83
-84        <receiver
-84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
-85            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
-86            android:directBootAware="false"
-86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
-87            android:enabled="true"
-87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
-88            android:exported="true"
-88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
-89            android:permission="android.permission.DUMP" >
-89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
-90            <intent-filter>
-90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
-91                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
-91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
-92            </intent-filter>
-93            <intent-filter>
-93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
-94                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
-94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
-95            </intent-filter>
-96            <intent-filter>
-96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
-97                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
-97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
-98            </intent-filter>
-99            <intent-filter>
-99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
-100                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
-100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
-101            </intent-filter>
-102        </receiver>
-103    </application>
-104
-105</manifest>
+26        android:testOnly="true"
+27        android:theme="@style/Theme.ResepMakanan" >
+27-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:11:9-50
+28        <activity
+28-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:13:9-22:20
+29            android:name="com.ridho.resepku.SplashActivity"
+29-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:14:13-43
+30            android:exported="true"
+30-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:15:13-36
+31            android:screenOrientation="portrait"
+31-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:17:13-49
+32            android:theme="@style/Theme.ResepMakanan.NoActionBar" >
+32-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:16:13-66
+33            <intent-filter>
+33-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:18:13-21:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:19:17-69
+34-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:19:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:20:17-77
+36-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:20:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:23:9-25:52
+40            android:name="com.ridho.resepku.TeamActivity"
+40-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:24:13-41
+41            android:screenOrientation="portrait" />
+41-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:25:13-49
+42        <activity
+42-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:26:9-28:52
+43            android:name="com.ridho.resepku.MenuActivity"
+43-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:27:13-41
+44            android:screenOrientation="portrait" />
+44-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:28:13-49
+45        <activity
+45-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:29:9-31:52
+46            android:name="com.ridho.resepku.GudegActivity"
+46-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:30:13-42
+47            android:screenOrientation="portrait" />
+47-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:31:13-49
+48        <activity
+48-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:32:9-34:52
+49            android:name="com.ridho.resepku.BaksoActivity"
+49-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:33:13-42
+50            android:screenOrientation="portrait" />
+50-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:34:13-49
+51        <activity
+51-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:35:9-37:52
+52            android:name="com.ridho.resepku.TelurBaladoActivity"
+52-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:36:13-48
+53            android:screenOrientation="portrait" />
+53-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:37:13-49
+54        <activity
+54-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:38:9-40:52
+55            android:name="com.ridho.resepku.KleponActivity"
+55-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:39:13-43
+56            android:screenOrientation="portrait" />
+56-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:40:13-49
+57        <activity
+57-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:41:9-43:52
+58            android:name="com.ridho.resepku.SateBabiActivity"
+58-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:42:13-45
+59            android:screenOrientation="portrait" />
+59-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:43:13-49
+60        <activity
+60-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:44:9-46:52
+61            android:name="com.ridho.resepku.MieAyamActivity"
+61-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:45:13-44
+62            android:screenOrientation="portrait" />
+62-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:46:13-49
+63        <activity
+63-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:47:9-49:52
+64            android:name="com.ridho.resepku.RendangActivity"
+64-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:48:13-44
+65            android:screenOrientation="portrait" />
+65-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:49:13-49
+66        <activity
+66-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:50:9-52:52
+67            android:name="com.ridho.resepku.NasiGorengActivity"
+67-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:51:13-47
+68            android:screenOrientation="portrait" />
+68-->C:\Users\ThinkPad T14\ResepMakanan\app\src\main\AndroidManifest.xml:52:13-49
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+72            android:authorities="com.ridho.resepku.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\9fbc8d7b9a5aba592a30f7a8e1c5ea51\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\ec9f131ae2c1fc391170cab8b0045dd5\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\ec9f131ae2c1fc391170cab8b0045dd5\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\ec9f131ae2c1fc391170cab8b0045dd5\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+82                android:value="androidx.startup" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+83        </provider>
+84
+85        <receiver
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+86            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+87            android:directBootAware="false"
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+88            android:enabled="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+89            android:exported="true"
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+90            android:permission="android.permission.DUMP" >
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+92                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+93            </intent-filter>
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+95                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+98                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+101                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ThinkPad T14\.gradle\caches\9.0-milestone-1\transforms\405fd01eff1b30fbcac7fd0aa8f5cf48\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+102            </intent-filter>
+103        </receiver>
+104    </application>
+105
+106</manifest>

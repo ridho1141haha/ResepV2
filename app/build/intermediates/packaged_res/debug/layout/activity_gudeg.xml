@@ -21,6 +21,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Gudeg"
+            android:background="#036635"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
             android:textSize="24sp"
             android:textStyle="bold"
             android:gravity="center"
@@ -37,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="• nangka muda 1 kg\n• santan kental 500 ml\n• gula merah 50 g\n• daun salam 3\n• lengkuas geprek 2 cm\n• garam\n• air kelapa secukupnya\n• telur rebus opsional\n• Bumbu halus: bawang merah 8, bawang putih 4, ketumbar 1 sdt, kemiri 3, kencur 1 cm" />
+            android:text="Bahan utama:\n-1 kg nangka muda, potong kecil-kecil\n-2 liter santan (dari 2 butir kelapa)\n-5 butir telur rebus (opsional)\n-200 g gula jawa (sesuai selera)\n-2 lembar daun salam\n-3 lembar daun jeruk\n-1 batang serai, memarkan\n-2 cm lengkuas, memarkan\n-100 g kelapa parut sangrai (areh, opsional)\n-Garam secukupnya\n\nBumbu halus:\n-8 siung bawang merah\n-5 siung bawang putih\n-4 butir kemiri sangrai\n-2 sdm ketumbar sangrai\n-1/2 sdt merica\n-1 ruas kunyit (bakar sebentar)\n-1 ruas jahe" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Tumis bumbu halus hingga harum.\n2. Masukkan nangka, daun salam, dan lengkuas.\n3. Tuang air kelapa dan gula merah, masak dengan api kecil selama 1-2 jam hingga nangka empuk.\n4. Masukkan santan kental, aduk perlahan dan koreksi rasa.\n5. Masak terus hingga kuah menyusut dan gudeg berwarna kecokelatan." />
+            android:text="-Rebus nangka:\nRebus nangka muda dengan sedikit garam sampai setengah empuk, tiriskan.\n-Tumis bumbu:\nHaluskan bumbu, tumis bersama daun salam, daun jeruk, serai, dan lengkuas sampai harum.\n-Masak nangka:\nMasukkan nangka ke dalam panci, tuang santan, masukkan gula jawa. Aduk rata.\n-Masak perlahan:\nMasak dengan api kecil selama ±4-6 jam hingga nangka empuk, bumbu meresap, dan kuah menyusut (warnanya akan cokelat pekat).\n-Tambahkan telur:\nMasukkan telur rebus saat setengah matang agar ikut menyerap bumbu.\n-Sajikan:\nSajikan gudeg dengan areh (santan kental), sambal goreng krecek, ayam opor, dan nasi hangat." />
 
         <Button
             android:id="@+id/btn_back_to_menu"

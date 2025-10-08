@@ -3487,8 +3487,6 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
-id recipe_image
-id recipe_title
 id rectangles
 id report_drawn
 id reverseSawtooth
@@ -3575,8 +3573,6 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
-id team_member_avatar
-id team_member_name
 id text
 id text2
 id textEnd
@@ -3779,8 +3775,6 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
-layout item_recipe
-layout item_team
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

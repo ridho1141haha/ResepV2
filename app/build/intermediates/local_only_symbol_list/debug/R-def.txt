@@ -35,12 +35,8 @@ id img_nasi_goreng
 id img_rendang
 id img_sate_babi
 id img_telur_balado
-id recipe_image
-id recipe_title
 id splash_image
 id splash_title
-id team_member_avatar
-id team_member_name
 id textViewTitle
 layout activity_bakso
 layout activity_gudeg
@@ -53,8 +49,6 @@ layout activity_sate_babi
 layout activity_splash
 layout activity_team
 layout activity_telur_balado
-layout item_recipe
-layout item_team
 string app_name
 string btn_kembali
 string btn_lanjut

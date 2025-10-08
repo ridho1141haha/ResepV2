@@ -21,6 +21,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Bakso"
+            android:background="#036635"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
             android:textSize="24sp"
             android:textStyle="bold"
             android:gravity="center"
@@ -37,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="• daging sapi giling 500 g\n• tepung tapioka 100 g\n• putih telur 1\n• es batu serut 100 g\n• bawang putih 3 siung (haluskan)\n• merica, garam, kaldu bubuk secukupnya\n• Kuah: tulang sapi, bawang putih goreng, daun bawang, garam, merica" />
+            android:text="Bahan Bakso:\n• 500 gr daging sapi giling (pilih yang agak berlemak)\n• 100 gr es batu (biar adonan tetap dingin &amp; kenyal)\n• 3 siung bawang putih, goreng lalu haluskan\n• 2 sdm tepung tapioka\n• 1 butir putih telur\n• 1 sdt garam\n• 1/2 sdt merica bubuk\n• 1/2 sdt baking powder (opsional, biar lebih empuk)\n\nBahan Kuah:\n• 2 liter air\n• 3 siung bawang putih, goreng lalu haluskan\n• 2 batang daun bawang + seledri, iris\n• Garam, merica, dan kaldu sapi bubuk secukupnya" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Aduk rata daging giling, bumbu halus, dan es batu hingga tercampur.\n2. Tambahkan tepung tapioka, aduk hingga adonan kalis.\n3. Bentuk adonan menjadi bulatan-bulatan bakso.\n4. Rebus bakso dalam air mendidih hingga mengapung dan matang.\n5. Siapkan kuah dengan merebus tulang sapi dan bumbu.\n6. Sajikan bakso dengan kuah, mie/sohun, dan sawi." />
+            android:text="1. Adonan bakso → blender daging sapi + bawang putih + es batu sampai halus. Tambahkan tapioka, putih telur, garam, merica. Aduk rata hingga adonan kalis dan lengket.\n2. Bentuk bakso → siapkan panci air mendidih kecil, matikan api. Bentuk adonan bulat dengan tangan, langsung masukkan ke air panas (supaya bentuknya tidak rusak).\n3. Rebus → nyalakan api kecil, masak sampai bakso mengapung. Angkat, tiriskan.\n4. Kuah → rebus air baru, masukkan bawang putih goreng halus, garam, merica, kaldu bubuk. Terakhir tambahkan daun bawang &amp; seledri.\n5. Sajikan → taruh bakso ke mangkok, siram dengan kuah panas, taburi bawang goreng.\n\nTips:\n• Kalau suka bakso urat, tambahkan potongan urat sapi ke dalam adonan.\n• Bisa juga bikin variasi bakso isi (keju, cabe rawit, telur puyuh)." />
 
         <Button
             android:id="@+id/btn_back_to_menu"

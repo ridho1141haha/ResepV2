@@ -21,6 +21,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Sate Babi"
+            android:background="#036635"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
             android:textSize="24sp"
             android:textStyle="bold"
             android:gravity="center"
@@ -37,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="• daging babi 500 g (potong dadu)\n• kecap asin 2 sdm\n• kecap manis 2 sdm\n• bawang putih 3 siung (haluskan)\n• ketumbar bubuk 1 sdt\n• gula 1 sdt\n• merica, minyak secukupnya" />
+            android:text="Bahan:\n• 500 gr daging babi (paha/has dalam, potong kotak kecil)\n• Tusuk sate secukupnya\n\nBumbu marinasi:\n• 5 siung bawang putih, haluskan\n• 5 sdm kecap manis\n• 2 sdm saus tiram\n• 1 sdm minyak wijen (opsional)\n• 1 sdm gula merah sisir\n• 1/2 sdt merica\n• 1/2 sdt garam" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Campurkan daging babi dengan semua bumbu, aduk rata. Diamkan (marinasi) selama minimal 1 jam.\n2. Tusuk daging pada tusukan sate.\n3. Bakar atau panggang sate sambil diolesi sisa bumbu marinasi hingga matang.\n4. Sajikan dengan sambal matah atau sambal kecap." />
+            android:text="a. Siapkan daging → potong babi ukuran dadu kecil (1,5-2 cm), biar mudah matang merata.\nb. Buat marinasi → campur semua bumbu (bawang putih halus, kecap, saus tiram, minyak wijen, gula merah, garam, merica). Aduk rata.\nc. Masukkan daging → aduk dengan bumbu sampai terlapisi rata. Simpan minimal 1 jam (lebih bagus semalaman di kulkas, biar bumbunya meresap).\nd. Tusukkan sate → ambil tusuk sate, isi 4-5 potong daging tiap tusuk.\ne. Proses bakar → panaskan panggangan arang (lebih wangi) atau pakai teflon grill. Olesi sedikit minyak/ mentega.\nf. Panggang sate → taruh sate, balik-balik sambil diolesi sisa bumbu. Masak sampai kecoklatan, agak caramelized, dan keluar aroma smoky.\ng. Sajikan → sate babi siap disajikan dengan nasi hangat, sambal matah/ sambal kecap sesuai selera." />
 
         <Button
             android:id="@+id/btn_back_to_menu"

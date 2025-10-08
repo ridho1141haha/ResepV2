@@ -12,6 +12,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="Identitas Tim XI PPLG A"
+        android:background="#036635"
+        android:textColor="@android:color/white"
+        android:padding="8dp"
         android:textAlignment="center"
         android:textSize="24sp"
         android:textStyle="bold" />
