@@ -86,6 +86,7 @@ ResepV2/
 ├── gradle.properties
 ├── gradle-wrapper.properties
 ├── local.properties
+├── Readme.md
 └── settings.gradle
 ```
 
