@@ -19,22 +19,39 @@ Menampilkan daftar resep, detail resep, serta fitur tambahan sesuai versi terbar
 ## 🗂️ Struktur Project
 
 ResepV2/
+
 ├── app/
+
 │ ├── src/
+
 │ │ ├── main/
+
 │ │ │ ├── AndroidManifest.xml
+
 │ │ │ ├── java/com/…/ (atau package kamu)
+
 │ │ │ │ ├── MainActivity.kt
+
 │ │ │ │ ├── (Activity / Fragment lain).kt
+
 │ │ │ │ ├── Adapter.kt
+
 │ │ │ │ ├── Model.kt
+
 │ │ │ ├── res/
+
 │ │ │ │ ├── layout/
+
 │ │ │ │ ├── drawable/
+
 │ │ │ │ ├── values/
+
 │ └── build.gradle
+
 ├── build.gradle
+
 ├── settings.gradle
+
 └── README.md
 
 
