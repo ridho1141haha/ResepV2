@@ -18,41 +18,76 @@ Menampilkan daftar resep, detail resep, serta fitur tambahan sesuai versi terbar
 
 ## 🗂️ Struktur Project
 
+```
 ResepV2/
-
 ├── app/
-
-│ ├── src/
-
-│ │ ├── main/
-
-│ │ │ ├── AndroidManifest.xml
-
-│ │ │ ├── java/com/…/ (atau package kamu)
-
-│ │ │ │ ├── MainActivity.kt
-
-│ │ │ │ ├── (Activity / Fragment lain).kt
-
-│ │ │ │ ├── Adapter.kt
-
-│ │ │ │ ├── Model.kt
-
-│ │ │ ├── res/
-
-│ │ │ │ ├── layout/
-
-│ │ │ │ ├── drawable/
-
-│ │ │ │ ├── values/
-
-│ └── build.gradle
-
-├── build.gradle
-
-├── settings.gradle
-
-└── README.md
+│   ├── manifests/
+│   │   └── AndroidManifest.xml
+│   │
+│   ├── java/
+│   │   └── com/ridho/resepku/
+│   │       ├── BaksoActivity.java
+│   │       ├── GudegActivity.java
+│   │       ├── KleponActivity.java
+│   │       ├── MenuActivity.java
+│   │       ├── MieAyamActivity.java
+│   │       ├── NasiGorengActivity.java
+│   │       ├── RendangActivity.java
+│   │       ├── SateBabiActivity.java
+│   │       ├── SplashActivity.java
+│   │       ├── TeamActivity.java
+│   │       └── TelurBaladoActivity.java
+│   │
+│   ├── res/
+│   │   ├── drawable/
+│   │   │   ├── adrian.jpg
+│   │   │   ├── alfian.jpg
+│   │   │   ├── bakso.jpg
+│   │   │   ├── farel.jpg
+│   │   │   ├── gudeg.jpg
+│   │   │   ├── ic_app_logo.xml
+│   │   │   ├── img_splash_food.jpg
+│   │   │   ├── klepon.jpg
+│   │   │   ├── mie_ayam.jpg
+│   │   │   ├── nasi_goreng.jpg
+│   │   │   ├── rendang.jpg
+│   │   │   ├── ridho.jpg
+│   │   │   ├── sate_babi.jpeg
+│   │   │   └── telur_balado.jpg
+│   │   │
+│   │   ├── layout/
+│   │   │   ├── activity_bakso.xml
+│   │   │   ├── activity_gudeg.xml
+│   │   │   ├── activity_klepon.xml
+│   │   │   ├── activity_menu.xml
+│   │   │   ├── activity_mie_ayam.xml
+│   │   │   ├── activity_nasi_goreng.xml
+│   │   │   ├── activity_rendang.xml
+│   │   │   ├── activity_sate_babi.xml
+│   │   │   ├── activity_splash.xml
+│   │   │   ├── activity_team.xml
+│   │   │   └── activity_telur_balado.xml
+│   │   │
+│   │   ├── mipmap/
+│   │   │   └── (icon aplikasi)
+│   │   │
+│   │   ├── values/
+│   │   │   ├── colors.xml
+│   │   │   ├── colors.xml (night)
+│   │   │   ├── strings.xml
+│   │   │   ├── themes.xml
+│   │   │   └── themes.xml (night)
+│   │
+│   └── xml/
+│       └── (optional config files)
+│
+├── build.gradle              # konfigurasi gradle project
+├── build.gradle (Module: app)
+├── gradle.properties
+├── gradle-wrapper.properties
+├── local.properties
+└── settings.gradle
+```
 
 
 ---
